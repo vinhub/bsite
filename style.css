@@ -24,11 +24,9 @@ h2 {
 
 .links__item {
   display: block;
-  max-width: 550px;
-  margin: 0 auto 10px;
-  margin-bottom: 5px;
+  max-width: 500px;
+  margin: 0 auto;
   padding: 10px 20px;
-  font-size: 0.95rem;
   line-height: 1.5;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
